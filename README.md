@@ -1,6 +1,8 @@
 # Telemarketing and spam numbers
 
-Numbers that hit my cell. Categorized as telemarketing, or spam.
+Numbers that hit my cell. 
+
+Categorized as (a legit) telemarketing, or spam.
 
 Named with slash-tag format for easy identification in address-book
 
